@@ -7,7 +7,7 @@ meta:
   keywords: "SEEE, EEEE"
 
 project:
-  title: "Red Pineapple"
+  title: "TESTE"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/redpineapple/logo.png"
