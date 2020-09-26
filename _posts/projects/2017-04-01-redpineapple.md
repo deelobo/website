@@ -1,6 +1,5 @@
 ---
 layout: project
-permalink: /:title/
 category: projects
 
 meta:
@@ -10,10 +9,6 @@ project:
   title: "Teste"
   type: "Teaching"
   logo: "/assets/images/projects/redpineapple/logo.png"
-
-agency:
-  title: "Guida cat"
-  year: "2020"
 
 images:
   - image:
@@ -26,4 +21,5 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Guida is a cat!</p>
+<p>Guida is a cat! GuiDA Guida</p>
+sdkfjdkj
