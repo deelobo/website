@@ -1,11 +1,9 @@
 # User config
-author: "Diele"
+author: "Diele Lobo"
 tagline: "Diele's webpagee"
 description: "..."
-email: "pineapple@example.com"
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+email: "lobo0010@umn.edu"
+twitter: "https://twitter.com/dielelobo"
 
 # Site config
 baseurl: "/website"
