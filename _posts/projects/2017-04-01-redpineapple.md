@@ -7,8 +7,7 @@ meta:
   keywords: "SEEE, EEEE"
 
 project:
-  title: "TESTE"
-  type: "Jekyll"
+  title: "Research"
   logo: "/assets/images/projects/redpineapple/logo.png"
 
 images:
