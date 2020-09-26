@@ -4,6 +4,7 @@ tagline: "Diele's webpagee"
 description: "My research..."
 email: "lobo0010@umn.edu"
 twitter: "https://twitter.com/dielelobo"
+CV: 
 
 # Site config
 baseurl: "/website"
