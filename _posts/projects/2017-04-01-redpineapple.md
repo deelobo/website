@@ -10,11 +10,6 @@ project:
   title: "TESTE"
   type: "Jekyll"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "Guida"
-  year: "2017"
 
 images:
   - image:
