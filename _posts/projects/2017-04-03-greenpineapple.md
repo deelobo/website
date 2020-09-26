@@ -4,19 +4,11 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "products, training"
 
 project:
   title: "Solutions"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/greenpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "Green Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017"
 
 images:
   - image:
