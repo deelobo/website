@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "SEEE, EEEE"
+  keywords: "research, publications, projects"
 
 project:
   title: "Research"
