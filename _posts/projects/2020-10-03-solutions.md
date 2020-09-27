@@ -21,4 +21,6 @@ images:
     url: "/assets/images/projects/solutions/mobile.jpg"
     alt: "Green Pineapple website on a mobile device"
 ---
+<p style="padding-top:50px">
+
 <p>The pineapple is made up of mostly water (86%) and carbohydrates (13%), with almost no fat or protein. It has nutrients, vitamins, and minerals, including copper, potassium, calcium, magnesium, manganese, vitamin C, thiamin, B6, beta-carotene, and folate as well as soluble and insoluble fiber and bromelain.</p>
