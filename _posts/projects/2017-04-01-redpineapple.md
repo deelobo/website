@@ -4,17 +4,19 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "research, publications, projects"
+  keywords: "Jekyll, Pineapple"
 
-  project:
-    title: "Research"
-    logo: "/assets/images/projects/redpineapple/logo.png"
-    tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+project:
+  title: "Research"
+  type: "Jekyll"
+  url: "https://github.com/arnolds/pineapple"
+  logo: "/assets/images/projects/redpineapple/logo.png"
+  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
-  agency:
-    title: "Red Pineapple Co"
-    url: "https://github.com/arnolds/pineapple"
-    year: "2017"
+agency:
+  title: "Red Pineapple Co"
+  url: "https://github.com/arnolds/pineapple"
+  year: "2017"
 
 images:
   - image:
@@ -27,12 +29,7 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Pcae
-cerrr
-ctciyftyu
-jhljhgf.
-
-asdfasdklf
-sdkjfalksdfjaskldfj
-
-</p>
+<p>Pinhglhkg;iug;itugtguuiugtteiydludlufg;*ugb;
+kjbv;khgi
+hvlhjvljh
+kbv;khvhk*y.</p>
