@@ -21,8 +21,8 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p style="padding-top:30px">
+<p style="padding-top:50px">
 <p>Pinhglhkg;iugtugtguuiugtteiydludlufg;*ugb.</p>
 <br>
 <br>
-<p<p>Pinhglhkg;iugtugtguuiugtteiydludlufg;*ugb.</p>
+<p>Pinhglhkg;iugtugtguuiugtteiydludlufg;*ugb.</p>
