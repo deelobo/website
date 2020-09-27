@@ -8,14 +8,11 @@ meta:
 
 project:
   title: "Research"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
   title: "Casa"
-  url: "https://github.com/arnolds/pineapple"
   year: "2017"
 
 images:
