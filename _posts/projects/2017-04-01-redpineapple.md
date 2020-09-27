@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Research, Publications"
 
 project:
   title: "Research"
@@ -22,10 +22,7 @@ images:
     alt: "Red Pineapple website on a mobile device"
 ---
 
-<p>
-
-
-Pinhglhkg;iug;
+<p> Pinhglhkg;iug;
 itugtguuiugtteiydludlufg;*ugb;
 kjbv;khgi
 hvlhjvljh
