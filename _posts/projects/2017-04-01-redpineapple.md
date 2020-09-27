@@ -22,7 +22,7 @@ images:
     alt: "Red Pineapple website on a mobile device"
 ---
 <p style="padding-top:50px">
-<p style="font-weight:400;">font-weight: 400</p>
+<p style="font-we;">font-weight: 400</p>
 
 <p>Pinhglhkg;iugtugtguuiugtteiydludlufg;*ugb.</p>
 <br>
