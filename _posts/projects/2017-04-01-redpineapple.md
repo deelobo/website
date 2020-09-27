@@ -24,5 +24,4 @@ images:
 <p style="padding-top:50px">
 <p>Pinhglhkg;iugtugtguuiugtteiydludlufg;*ugb.</p>
 <br>
-<br>
 <p>Pinhglhkg;iugtugtguuiugtteiydludlufg;*ugb.</p>
