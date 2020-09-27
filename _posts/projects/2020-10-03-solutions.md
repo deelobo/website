@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Solutions"
-  logo: "/assets/images/projects/solutions/logo-2-2.png"
+  logo: "/assets/images/projects/solutions/logo.jpg"
 
 images:
   - image:
