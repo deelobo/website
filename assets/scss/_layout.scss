@@ -37,7 +37,7 @@
 	z-index: 1;
 
 	@media (min-width: $breakpoint-medium) {
-		padding: 15rem 0 0;
+		padding: 21rem 0 0;
 		margin-bottom: 23.42rem;
 	}
 }
@@ -105,7 +105,7 @@
 		position: relative;
 
 		&:before {
-			content: "View More";
+			content: "View Project";
 			color: $color-white;
 			@extend .h2;
 			font-weight: 800;
@@ -208,6 +208,12 @@
 
 		&:first-of-type {
 			margin-top: 0;
+		}
+	}
+
+	h1 {
+		a {
+			text-decoration: underline;
 		}
 	}
 
