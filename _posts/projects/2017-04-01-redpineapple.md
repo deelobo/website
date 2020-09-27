@@ -21,17 +21,8 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-
-<p> Pinhglhkg;iug;
-itugtguuiugtteiydludlufg;*ugb;
-kjbv;khgi
-hvlhjvljh
-kbv;khvhk*y.</p>
-
-<p>
-
-affadf
-
-afdad
-
-</p>
+<p style="padding-top:30px">
+<p>Pinhglhkg;iugtugtguuiugtteiydludlufg;*ugb.</p>
+<br>
+<br>
+<p<p>Pinhglhkg;iugtugtguuiugtteiydludlufg;*ugb.</p>
