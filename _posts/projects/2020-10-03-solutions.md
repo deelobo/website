@@ -8,6 +8,7 @@ meta:
 
 project:
   title: "Solutions"
+  type: "Sítio do Mocó, PI-Brazil"
   logo: "/assets/images/projects/solutions/logo.jpg"
 
 images:
