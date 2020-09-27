@@ -13,13 +13,13 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/solutions/devices.jpg"
+    url: "/assets/images/projects/solutions/ceramica.png"
     alt: "Green Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/solutions/desktop.jpg"
+    url: "/assets/images/projects/solutions/kiss.png"
     alt: "Green Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/solutions/mobile.jpg"
+    url: "/assets/images/projects/solutions/art.jpg"
     alt: "Green Pineapple website on a mobile device"
 ---
 <p style="padding-top:50px">
