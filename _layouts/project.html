@@ -14,9 +14,16 @@
 		<div class="container">
 			<article>
 			<h1><target="_blank" title="{{ page.project.title }}" rel="nofollow">{{ page.project.title }}</h1>
-			<div>
-				<span style="font-weight: normal;">{{ page.content }}</span>
-			</div>
+			<span class="h2">Role</span>
+					{{ page.content }}
+					<div class="project-meta">
+						<span class="h2">Technologies</span>
+						<p>{{ page.project.tech }}</p>
+						<span class="h2">Agency</span>
+						<p><a title="{{ page.agency.title }}" target="_blank" rel="nofollow">{{ page.agency.title }}</a></p>
+						<span class="h2">Year</span>
+						<p>{{ page.agency.year }}</p>
+					</div>
 			</article>
 				<aside>
 					<ul>
