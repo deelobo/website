@@ -9,11 +9,6 @@ meta:
 project:
   title: "Research"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "Casa"
-  year: "2017"
 
 images:
   - image:
