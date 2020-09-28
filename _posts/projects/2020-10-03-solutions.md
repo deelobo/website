@@ -14,13 +14,13 @@ project:
 images:
   - image:
     url: "/assets/images/projects/solutions/ceramica.png"
-    alt: "Green Pineapple website on tablet, mobile and desktop"
+    alt: "Ceramica Serra da Capivara by Otavio Nogueira"
   - image:
     url: "/assets/images/projects/solutions/kiss.png"
-    alt: "Green Pineapple website on a desktop device"
+    alt: "Rock art Serra da Capivara Nartional Park by Otavio Nogueira"
   - image:
-    url: "/assets/images/projects/solutions/art.jpg"
-    alt: "Green Pineapple website on a mobile device"
+    url: "/assets/images/projects/solutions/planting.png"
+    alt: "Reforestation Pedra Dantas Natural Reserve"
 ---
 <p style="padding-top:50px">
 
