@@ -15,7 +15,7 @@
 		<section class="intro">
 			<div class="container">
 				<h2>About me.</h2>
-				<p>{{ site.description }}</p>
+				<p><img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ site.description }}" </p>
 			</div>
 		</section>
 		<section class="projects">
