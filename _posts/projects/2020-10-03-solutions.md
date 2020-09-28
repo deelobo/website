@@ -16,10 +16,10 @@ images:
     url: "/assets/images/projects/solutions/ceramica.png"
     alt: "Ceramica Serra da Capivara by Otavio Nogueira"
   - image:
-    url: "/assets/images/projects/solutions/planting.jpg"
+    url: "/assets/images/projects/solutions/planting.png"
     alt: "Rock art Serra da Capivara Nartional Park by Otavio Nogueira"
   - image:
-    url: "/assets/images/projects/solutions/art.png"
+    url: "/assets/images/projects/solutions/art.jpg"
     alt: "Reforestation Pedra Dantas Natural Reserve"
 ---
 <p style="padding-top:50px">
