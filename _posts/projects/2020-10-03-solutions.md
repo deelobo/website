@@ -27,6 +27,7 @@ images:
 <br>
 <p>A big part of my work involves engaging with diverse partners to deliver science that informs practice and policy for advancing conservation + equity.
 <br>
+<br>
 <p>Here are some solutions I helped to bring about with amazing colleagues:<p>
 <br>
 
