@@ -47,6 +47,7 @@ br>
 <br>
 <br>
  **Training courses**
+ <br>
 1. A 5-module training course in ecological restoration for land managers and environmental agencies.
 <br>
 2. A training course in Payment for Ecosystem Service (PES) with diverse stakeholders, including policymakers, in Pernambuco, Brazil. After the course, the state's policy draft on mechanisms to confront climate change (No. 14.090, signed on June 17, 2010) was revised to include the concept of ecosystem services and to promote reforestation with native species and PES as a form of compensation for forest conservation.</p>
