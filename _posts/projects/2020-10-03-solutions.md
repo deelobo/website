@@ -24,12 +24,10 @@ images:
 ---
 <p style="padding-top:50px">
 
-<p>Science for solutions</p>
 <br>
-A big part of my work involves engaging with diverse partners to deliver science that informs practice and policy for advancing conservation + equity. My research and teaching are part of a cohesive approach with two questions at its core: How can I help people decide what actions to take to solve environmental problems and make conservation interventions? How can I help people make ethical and just decisions about how to manage and govern natural resources?
-
+<p>A big part of my work involves engaging with diverse partners to deliver science that informs practice and policy for advancing conservation + equity. My research and teaching are part of a cohesive approach with two questions at its core: How can I help people decide what actions to take to solve environmental problems and make conservation interventions? How can I help people make ethical and just decisions about how to manage and govern natural resources?</p>
 <br>
-Here are some solutions I helped to bring about with amazing colleagues:
+<p>Here are some solutions I helped to bring about with amazing colleagues:<p>
 <br>
 The book "Implementando Reflorestamentos com Alta Diversidade na Zona da Mata Nordestina - Guia Prático" [Implementing restoration projects with high biodiversity in the Northeastern Atlantic Forest: a guidebook] offers land managers with little or no scientific background the "how-to" information they need to plan and implement restoration activities in the Northeastern Atlantic Forest. The book set forth a step-by-step process for selecting native species, implementing and monitoring on-the-ground restoration projects.
 The cool thing, it also served as a normative standard to public policies in forest rehabilitation in several states in Northeast Brazil.
