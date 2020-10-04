@@ -25,7 +25,7 @@ images:
 <p style="padding-top:50px">
 
 <br>
-<p>A big part of my work involves engaging with diverse partners to deliver science that informs practice and policy for advancing conservation + equity. My research and teaching are part of a cohesive approach with two questions at its core: How can I help people decide what actions to take to solve environmental problems and make conservation interventions? How can I help people make ethical and just decisions about how to manage and govern natural resources?</p>
+<p>A big part of my work involves engaging with diverse partners to deliver science that informs practice and policy for advancing conservation + equity.
 <br>
 <br>
 <p>Here are some solutions I helped to bring about with amazing colleagues:<p>
@@ -40,13 +40,15 @@ The book "Espécies Exóticas Invasoras no Nordeste do Brasil" [Invasive exotic 
 br>
 An identification guide of trees to support seedling production of the Nature Reserve Pedra D'Anta's restoration projects.
 <br>
+<br>
 <p> Training courses</p>
 A 5-module training course in ecological restoration for land managers and environmental agencies.
 <br>
 A training course in Payment for Ecosystem Service (PES) with diverse stakeholders, including policymakers, in Pernambuco, Brazil. After the course, the state's policy draft on mechanisms to confront climate change (No. 14.090, signed on June 17, 2010) was revised to include the concept of ecosystem services and to promote reforestation with native species and PES as a form of compensation for forest conservation.
 <br>
-
-<p> Action plans</p>
-An ecological restoration implementation and monitoring plan for the Suape's Industrial Port Complex and the Nature Reserve Pedra D'anta (Lagoas dos Patos, PE, Brazil)
 <br>
-An identification guide of trees to support seedling production in ecological restoration projects.
+<p> Action plans</p>
+<br>
+Restoration plan and assessment for the Suape's Industrial Port Complex, Pernambuco.
+<br>
+Restoration plan and assessment for the Nature Reserve Pedra D'anta (Lagoas dos Patos, PE, Brazil)
