@@ -30,7 +30,7 @@ images:
 <p>Here are some solutions I helped to bring about with amazing colleagues:<p>
 <br>
 
-<p style="font-size:12px;">
+<p style="font-size:14px;">
 **Prints that support decision making**
 <br>
 1. The book "Implementando Reflorestamentos com Alta Diversidade na Zona da Mata Nordestina - Guia Prático" [Implementing restoration projects with high biodiversity in the Northeastern Atlantic Forest: a guidebook] offers land managers with little or no scientific background the "how-to" information they need to plan and implement restoration activities in the Northeastern Atlantic Forest. The book set forth a step-by-step process for selecting native species, implementing and monitoring on-the-ground restoration activities.
