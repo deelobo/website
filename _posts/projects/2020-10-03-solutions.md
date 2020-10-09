@@ -31,8 +31,8 @@ images:
 <p>Here are some solutions I helped to bring about with amazing colleagues:<p>
 <br>
 
-<p style="font-size:14px;">
 **Prints that support decision making**
+<p style="font-size:14px;">
 <br>
 1. The book "Implementando Reflorestamentos com Alta Diversidade na Zona da Mata Nordestina - Guia Prático" [Implementing restoration projects with high biodiversity in the Northeastern Atlantic Forest: a guidebook] offers land managers with little or no scientific background the "how-to" information they need to plan and implement restoration activities in the Northeastern Atlantic Forest. The book set forth a step-by-step process for selecting native species, implementing and monitoring on-the-ground restoration activities.
 The cool thing, it also served as a normative standard to public policies in forest rehabilitation in several states in Northeast Brazil.
@@ -43,7 +43,7 @@ br>
 <br>
 4. Restoration plan and assessment for the Suape's Industrial Port Complex, Pernambuco.
 <br>
-5. Restoration plan and assessment for the Nature Reserve Pedra D'anta (Lagoas dos Patos, PE, Brazil)
+5. Restoration plan and assessment for the Nature Reserve Pedra D'anta (Lagoas dos Patos, PE, Brazil)</p>
 <br>
 <br>
  **Training courses**
